@@ -12,6 +12,9 @@
   <a href="https://www.instagram.com/anshuman___8/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
+  <a href="https://mail.google.com/mail/dashanshuman444@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -48,10 +51,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anshuman444&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshuman444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/anshuman444/anshuman444/output/snake.svg" alt="Snake animation" />
 
 ###
